@@ -11,9 +11,9 @@
 
 ## Portafolio Personal
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoguedao/mat281_portfolio_template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukasrm/mat281_portfolio/master?urlpath=lab)
 
-* __John Titor__ : [My Page](https://www.linkedin.com/in/williamhgates/)
+* __Lukas Ramirez__ : [My Page]
 
 * __Repositorio Curso__:
     - [2019](https://github.com/aoguedao/mat281_2019S2)
