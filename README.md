@@ -13,7 +13,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukasrm/mat281_portfolio/master?urlpath=lab)
 
-* __Lukas Ramirez__ : [My Page]
+* __Lukas Ramirez__ : [Sin página por ahora]
 
 * __Repositorio Curso__:
     - [2019](https://github.com/aoguedao/mat281_2019S2)
